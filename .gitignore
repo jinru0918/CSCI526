@@ -1,0 +1,76 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# MemoryCaptures (Unity 2020+)
+MemoryCaptures/
+
+# Crash reports
+crashReports/
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor files
+# =========================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# Visual Studio
+.vs/
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.iml
+
+# =========================
+# Unity auto-generated
+# =========================
+sysinfo.txt
+ExportedObj/
+
+# =========================
+# Builds
+# =========================
+*.apk
+*.aab
+*.ipa
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+
+# =========================
+# Package manager cache
+# =========================
+Library/PackageCache/
+
+# =========================
+# Keep these (IMPORTANT)
+# =========================
+!Assets/
+!Packages/
+!ProjectSettings/
+
+
