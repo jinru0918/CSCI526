@@ -1,6 +1,3 @@
-# =========================
-# Unity generated folders
-# =========================
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -8,69 +5,19 @@
 [Bb]uilds/
 [Ll]ogs/
 UserSettings/
-
-# MemoryCaptures (Unity 2020+)
-MemoryCaptures/
-
-# Crash reports
-crashReports/
-
-# =========================
-# OS generated files
-# =========================
-.DS_Store
-Thumbs.db
-
-# =========================
-# IDE / Editor files
-# =========================
-*.csproj
-*.unityproj
-*.sln
-*.suo
-*.tmp
-*.user
-*.userprefs
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.mdb
-*.opendb
-
-# Visual Studio
 .vs/
+.vscode/
+.DS_Store
+*.csproj
+*.sln
+*.user
 
-# JetBrains Rider / IntelliJ
-.idea/
-*.iml
+# --- allow GitHub Pages WebGL output under docs/ ---
+!docs/
+!docs/**
 
-# =========================
-# Unity auto-generated
-# =========================
-sysinfo.txt
-ExportedObj/
-
-# =========================
-# Builds
-# =========================
-*.apk
-*.aab
-*.ipa
-*.xcodeproj
-*.xcworkspace
-*.xcuserstate
-
-# =========================
-# Package manager cache
-# =========================
-Library/PackageCache/
-
-# =========================
-# Keep these (IMPORTANT)
-# =========================
-!Assets/
-!Packages/
-!ProjectSettings/
-
-
+!docs/Build/
+!docs/Build/**
+!docs/index.html
+!docs/TemplateData/
+!docs/TemplateData/**
